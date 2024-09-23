@@ -15,7 +15,7 @@ const MainNavigation = () => {
 <Navigations />
 
 </aside>
-<Community />
+
 
  </div>
 </div>
