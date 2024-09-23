@@ -1,5 +1,6 @@
 import React from 'react'
 
+
 const Navigations = () => {
   return (
     <div class="h-full px-5 pb-4 overflow-y-auto bg-slate-50 border-gray-200 dark:bg-gray-800 border-b border-gray-200 rounded-[20px] ml-2">
